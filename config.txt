@@ -1,5 +1,5 @@
-CLIENT_SECRET=""
+CLIENT_SECRET="d109a4e11760325ef7236bf9d312ded0f60859c2ddc6a75c1b029e6a635011dc"
 #NOTE: The Device Serial Number can be any unique number
 DEVICE_SERIAL_NUMBER="123456"
-CLIENT_ID=""
-PRODUCT_ID=""
+CLIENT_ID="amzn1.application-oa2-client.b90c111090564f9cb37d414bcd6925a9"
+PRODUCT_ID="MyAVS"
